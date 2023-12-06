@@ -20,12 +20,12 @@ The dataset used in this project is the Credit Card Approval dataset from the UC
 12. **Finding the best-performing model**
 
 ## Dataset
-The dataset used in this project can be found in the [Credit Card Approval dataset](URL_TO_DATASET) from the UCI Machine Learning Repository.
+The dataset used in this project can be found in the [Credit Card Approval dataset](URL_TO_DATASET) from the UCI Machine Learning Repository or in the repo.
 
 ## Getting Started
 Follow the steps below to replicate the project on your local machine:
 
-1. Clone this repository: `git clone https://github.com/your-username/Predicting-Credit-Card-Approvals.git`
+1. Clone this repository: `git clone https://github.com/adasouzza/Predicting-Credit-Card-Approvals.git`
 2. Navigate to the project directory: `cd Predicting-Credit-Card-Approvals`
 3. Open and run the Jupyter notebooks in the `notebooks/` directory.
 
